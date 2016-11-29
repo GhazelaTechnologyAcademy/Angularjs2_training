@@ -1,0 +1,2 @@
+# Angularjs2_training
+Angularjs2_training Ghazela Technology Academy
